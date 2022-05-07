@@ -1,0 +1,3 @@
+/Users/thanhle/Desktop/C++/Animal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/thanhle/Desktop/C++/Animal/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/thanhle/Desktop/C++/Animal/cmake-build-debug/CMakeFiles/Animal.dir
